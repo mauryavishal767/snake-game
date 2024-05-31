@@ -15,6 +15,6 @@ Using JS we will draw the game board, create the snake and randomly generated fo
 
 ---
 
-![snake game]()
-
 **Deployed** : [snake game](https://mauryavishal767.github.io/snake-game/)
+
+![snake game](snake-game.png)
